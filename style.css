@@ -1,0 +1,12 @@
+body
+{
+    background-size: cover;
+}
+a
+{
+    margin-left: 30px;
+    font-size: 30;
+    background-color: blue;
+    color: white;
+    border-radius: 15px;
+}
